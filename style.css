@@ -1,13 +1,21 @@
 body{
-    background-color: rgb(44, 19, 83);
+    background-color: rgb(42, 22, 75);
     font-family: arial;
     font-size: large;
 }
 h1{
-    color: rgb(0, 0, 0);
+    color: rgb(225, 0, 255);
     text-align: center;
 }
 p{
     margin: 15px;
     line-height: 20px;
+    text-indent: 2px;
+}
+ul{
+    list-style-type:georgian;
+    margin: 15px;
+}
+.wyroznione{
+    background-color: blueviolet;
 }
