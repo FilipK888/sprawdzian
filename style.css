@@ -15,7 +15,9 @@ p{
 ul{
     list-style-type:georgian;
     margin: 15px;
+    background-color: blueviolet;
 }
 .wyroznione{
     background-color: blueviolet;
+    font-weight: bolder;
 }
